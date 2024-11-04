@@ -1,6 +1,6 @@
 # WiDS-Winter-2024
 
-### Course Description: Learn Web Development with Python with Projects
+### Course Description: Learn Web Development with Python (with Projects)
 
 Unlock the power of web development using Python in this comprehensive course designed for beginners and intermediate learners alike. Dive into the world of building dynamic, data-driven web applications while gaining hands-on experience through a series of engaging projects.
 
