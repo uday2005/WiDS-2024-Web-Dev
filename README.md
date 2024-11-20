@@ -4,6 +4,27 @@
 
 Unlock the power of web development using Python in this comprehensive course designed for beginners and intermediate learners alike. Dive into the world of building dynamic, data-driven web applications while gaining hands-on experience through a series of engaging projects.
 
+---
+
+### Table of Contents
+
+1. [What You'll Learn](#what-youll-learn)
+   - Fundamentals of Web Development
+   - Python for Web Development
+   - Database Integration
+   - APIs and Web Services
+   - Frontend Development
+   - Deployment
+2. [Projects You'll Build](#projects-youll-build)
+   - Personal Portfolio Website
+   - Blog Application
+   - E-commerce Store
+   - Social Media Dashboard
+3. [Who This Course Is For](#who-this-course-is-for)
+4. [Why Choose This Course?](#why-choose-this-course)
+
+---
+
 #### What You'll Learn:
 
 - **Fundamentals of Web Development**: Understand the basics of HTML, CSS, and JavaScript, and how they integrate with Python.
@@ -29,3 +50,4 @@ Unlock the power of web development using Python in this comprehensive course de
 #### Why Choose This Course?
 
 With a project-based approach, you will not only learn the theory but also apply it in real-world scenarios, enhancing your problem-solving skills and building a portfolio that stands out. Join us on this journey to become a proficient web developer and bring your ideas to life with Python!
+
