@@ -1,7 +1,6 @@
 # WiDS-2024-Python-Web-Developement
 
-This repository is created as part of the "Winter in the Web" project under the Analytics Club, IIT Bombay and is being mentored by me.
-
+This repository is created as part of the "Winter in the Web" project under the Analytics Club, IIT Bombay and is being mentored by [Nischal](https://github.com/NischalPendurthi) and [me](https://github.com/adityasanapala).
 ### Course Description: Learn Web Development with Python (with Projects)
 
 Unlock the power of web development using Python in this comprehensive course designed for beginners and intermediate learners alike. Dive into the world of building dynamic, data-driven web applications while gaining hands-on experience through a series of engaging projects.
