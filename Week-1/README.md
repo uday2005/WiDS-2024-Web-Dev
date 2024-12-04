@@ -10,3 +10,13 @@
 
 
 Resources will be uploaded as the course progresses.
+
+## Day 1: Overview of Web Development; Understanding the Client-Server Model
+
+- **Reading Article**: ["The Ultimate Web Development Roadmap"](https://www.browserstack.com/guide/web-development-roadmap)
+- **WEB History**: [Video1](https://youtu.be/wlYjSThvtew?si=zBpjKf2WwSZ9ZsvA)
+- **Client Server model**: [Video1](https://youtu.be/L5BlpPU_muY?si=xOWBUEOaXY5V17AV)
+- **Internet Protocols**: [Video1](https://youtu.be/3NDhETVfrp0?si=nb_owwLTxb1YuhTD), [Video2](https://youtu.be/P6SZLcGE4us?si=DzW5ooxpABO8LE2z)
+- **Intro for web languages**: [Video1](https://youtu.be/5YDVJaItmaY?si=YrJ2RDYVtb8fFEF0)
+- **Frontend and Backend**: [Video1](https://youtu.be/WG5ikvJ2TKA?si=xyraeDVVauTw4wg7) , [Video2](https://youtu.be/XBu54nfzxAQ?si=JsfA9hXfNyHAMpGd)
+- **More about Web Networking**: [Video1](https://youtu.be/2JYT5f2isg4?si=fbQDGIJF_bIyXuGs)
