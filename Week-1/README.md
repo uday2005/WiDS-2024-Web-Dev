@@ -1,6 +1,27 @@
 # Week 1: Introduction to Web Development Fundamentals
 
-- **Day 1**: Overview of web development; understanding the client-server model
+
+
+## Learning Plan
+
+### 1. Web Development Basics (& Introduction to HTML and CSS)
+
+- **Objective:** Introduce foundational concepts of web development, focusing on the structure of web pages with HTML and how to style them with CSS.
+- 
+
+### 2. Introduction to Dynamic Web Development with JavaScript
+
+- **Objective:** Learn the basics of JavaScript to add dynamic functionality and interactivity to web pages, while setting up a simple project environment.
+
+### 3. Assignment
+
+- **Task 1:** Concept Review and Q&A session.
+- **Task 2:** Create a multi-page website using HTML, CSS, and JavaScript.
+
+
+
+
+- **Day 1**: [Overview of web development; understanding the client-server model](https://www.youtube.com/watch?v=j9QmMEWmcfo)
 - **Day 2**: Introduction to HTML: structure of web pages
 - **Day 3**: Introduction to CSS: styling web pages
 - **Day 4**: Basics of JavaScript: interactivity in web pages
