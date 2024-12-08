@@ -1,13 +1,18 @@
 # Week 1: Introduction to Web Development Fundamentals
 
-
+Welcome to the first week of the Web Development program! Since we’re just getting started, we’ll take a relaxed approach for now, covering some fundamental concepts on how the internet and websites work.
 
 ## Learning Plan
 
 ### 1. Web Development Basics (& Introduction to HTML and CSS)
 
 - **Objective:** Introduce foundational concepts of web development, focusing on the structure of web pages with HTML and how to style them with CSS.
-- 
+- **Resources:**
+  - [YouTube - How does HTTPS work?](https://www.youtube.com/watch?v=j9QmMEWmcfo)
+  - [mdn web docs - Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
+  - 
+- **Additional Reading:**
+  - w
 
 ### 2. Introduction to Dynamic Web Development with JavaScript
 
@@ -21,7 +26,6 @@
 
 
 
-- **Day 1**: [Overview of web development; understanding the client-server model](https://www.youtube.com/watch?v=j9QmMEWmcfo)
 - **Day 2**: Introduction to HTML: structure of web pages
 - **Day 3**: Introduction to CSS: styling web pages
 - **Day 4**: Basics of JavaScript: interactivity in web pages
