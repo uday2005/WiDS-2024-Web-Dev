@@ -6,9 +6,14 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
 
 ### 1. Python Fundamentals
 
-
+- **Objective:** Understand Python syntax, data types, and core structures, and learn to define functions and organize code using Python modules.
+- **Resources:**
+  - w
+- 
 
 ### 2. Web Development with Flask
+
+- **Objective:** Learn to set up a Flask web application, manage routes, use templates, handle forms, structure projects, implement sessions, and deploy to production.
 
 
 ### 3. Assignment
