@@ -32,12 +32,29 @@ Resources will be uploaded as the course progresses.
 
 ---
 
-## Day 1: Overview of Web Development; Understanding the Client-Server Model
+# **Day 1: Overview of Web Development & Client-Server Model**  
 
-- **Reading Article**: ["The Ultimate Web Development Roadmap"](https://www.browserstack.com/guide/web-development-roadmap)
-- **WEB History**: [Video1](https://youtu.be/wlYjSThvtew?si=zBpjKf2WwSZ9ZsvA)
-- **Client Server model**: [Video1](https://youtu.be/L5BlpPU_muY?si=xOWBUEOaXY5V17AV)
-- **Internet Protocols**: [Video1](https://youtu.be/3NDhETVfrp0?si=nb_owwLTxb1YuhTD), [Video2](https://youtu.be/P6SZLcGE4us?si=DzW5ooxpABO8LE2z)
-- **Intro for web languages**: [Video1](https://youtu.be/5YDVJaItmaY?si=YrJ2RDYVtb8fFEF0)
-- **Frontend and Backend**: [Video1](https://youtu.be/WG5ikvJ2TKA?si=xyraeDVVauTw4wg7) , [Video2](https://youtu.be/XBu54nfzxAQ?si=JsfA9hXfNyHAMpGd)
-- **More about Web Networking**: [Video1](https://youtu.be/2JYT5f2isg4?si=fbQDGIJF_bIyXuGs)
+### **1. Introduction to Web Development**  
+- **Article**: [The Ultimate Web Development Roadmap](https://www.browserstack.com/guide/web-development-roadmap)  
+
+### **2. Web History**  
+- **Video**: [History of the Web](https://youtu.be/wlYjSThvtew?si=zBpjKf2WwSZ9ZsvA)  
+
+### **3. Client-Server Model**  
+- **Video**: [Client-Server Model Explained](https://youtu.be/L5BlpPU_muY?si=xOWBUEOaXY5V17AV)  
+
+### **4. Internet Protocols**  
+- **Videos**:  
+  - [Intro to Internet Protocols](https://youtu.be/3NDhETVfrp0?si=nb_owwLTxb1YuhTD)  
+  - [Networking Protocols Overview](https://youtu.be/P6SZLcGE4us?si=DzW5ooxpABO8LE2z)  
+
+### **5. Web Languages Overview**  
+- **Video**: [Introduction to Web Languages](https://youtu.be/5YDVJaItmaY?si=YrJ2RDYVtb8fFEF0)  
+
+### **6. Frontend vs Backend Development**  
+- **Videos**:  
+  - [Frontend vs Backend - Explained](https://youtu.be/WG5ikvJ2TKA?si=xyraeDVVauTw4wg7)  
+  - [Detailed Comparison](https://youtu.be/XBu54nfzxAQ?si=JsfA9hXfNyHAMpGd)  
+
+### **7. Web Networking Basics**  
+- **Video**: [Advanced Web Networking Concepts](https://youtu.be/2JYT5f2isg4?si=fbQDGIJF_bIyXuGs)  
