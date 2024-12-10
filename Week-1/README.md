@@ -31,8 +31,9 @@ Welcome to the first week of the Web Development program! Since we’re just get
 Resources will be uploaded as the course progresses.
 
 ---
+# **Day-by-Day Learning Plan** 
 
-# **Day 1: Overview of Web Development & Client-Server Model**  
+## Day 1: Overview of Web Development & Client-Server Model 
 
 ### **1. Introduction to Web Development**  
 - **Article**: [The Ultimate Web Development Roadmap](https://www.browserstack.com/guide/web-development-roadmap)  
@@ -60,11 +61,10 @@ Resources will be uploaded as the course progresses.
 - **Video**: [Advanced Web Networking Concepts](https://youtu.be/2JYT5f2isg4?si=fbQDGIJF_bIyXuGs)  
 
 
-# **Day 2,3,4 - Web Development Tutorial Plan**  
+## Day 2,3,4 - Web Development Tutorial Plan
 
 **Tutorial Site Example:** [Project Demo](https://delightful-longma-ac1459.netlify.app/)  
 
----
 
 ## **Project Workflow Overview**  
 
@@ -73,8 +73,6 @@ Resources will be uploaded as the course progresses.
 - **Day 4:** Add interactivity using JavaScript.  
 
 **Note:** Students can work on sections in parallel if they prefer.  
-
----
 
 ## **Project Setup**  
 
