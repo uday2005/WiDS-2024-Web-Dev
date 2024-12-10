@@ -30,8 +30,6 @@ Welcome to the first week of the Web Development program! Since we’re just get
 - **Day 3**: Introduction to CSS: styling web pages
 - **Day 4**: Basics of JavaScript: interactivity in web pages
 - **Day 5**: Project kickoff: Set up your development environment and create a simple static webpage
-- **Day 6**: Review and Q&A session
-- **Day 7**: Assignment: Create a multi-page website using HTML, CSS, and JavaScript
 
 
 Resources will be uploaded as the course progresses.
