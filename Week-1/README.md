@@ -11,7 +11,7 @@ Welcome to the first week of the Web Development program! Since we’re just get
   - [YouTube - How does HTTPS work?](https://www.youtube.com/watch?v=j9QmMEWmcfo)
   - [mdn web docs - Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
   - [HTML on w3schools.com](https://www.w3schools.com/html/default.asp) (Learn till HTML Graphics)
-  - [CSS on w3schools.com]() (Learn till CSS Grid)
+  - [CSS on w3schools.com](https://www.w3schools.com/css/default.asp) (Learn till CSS Grid)
 - **Additional Reading:**
   - w
 
@@ -19,7 +19,7 @@ Welcome to the first week of the Web Development program! Since we’re just get
 
 - **Objective:** Learn the basics of JavaScript to add dynamic functionality and interactivity to web pages, while setting up a simple project environment.
 - **Resources:**
-  - [JavaScript on w3schools.com]() (Learn till JavaScript HTML DOM)
+  - [JavaScript on w3schools.com](https://www.w3schools.com/js/default.asp) (Learn till JavaScript HTML DOM)
   - 
 - **Additional Reading:**
 
