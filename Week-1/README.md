@@ -10,29 +10,27 @@ Welcome to the first week of the Web Development program! Since we’re just get
 - **Resources:**
   - [YouTube - How does HTTPS work?](https://www.youtube.com/watch?v=j9QmMEWmcfo)
   - [mdn web docs - Web mechanics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics)
-  - 
+  - [HTML on w3schools.com](https://www.w3schools.com/html/default.asp) (Learn till HTML Graphics)
+  - [CSS on w3schools.com]() (Learn till CSS Grid)
 - **Additional Reading:**
   - w
 
 ### 2. Introduction to Dynamic Web Development with JavaScript
 
 - **Objective:** Learn the basics of JavaScript to add dynamic functionality and interactivity to web pages, while setting up a simple project environment.
+- **Resources:**
+  - [JavaScript on w3schools.com]() (Learn till JavaScript HTML DOM)
+  - 
+- **Additional Reading:**
 
 ### 3. Assignment
 
-- **Task 1:** Concept Review and Q&A session.
-- **Task 2:** Create a multi-page website using HTML, CSS, and JavaScript.
-
-
-
-
-- **Day 2**: Introduction to HTML: structure of web pages
-- **Day 3**: Introduction to CSS: styling web pages
-- **Day 4**: Basics of JavaScript: interactivity in web pages
-- **Day 5**: Project kickoff: Set up your development environment and create a simple static webpage
-
+- **Task 1:** Concept Review and Q&A session (Quiz link will be uploaded on Monday, 16th December 2024).
+- **Task 2:** Set up your development environment and create a multi-page website using HTML, CSS, and JavaScript.
 
 Resources will be uploaded as the course progresses.
+
+---
 
 ## Day 1: Overview of Web Development; Understanding the Client-Server Model
 
