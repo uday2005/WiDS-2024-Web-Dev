@@ -15,7 +15,7 @@ Welcome to Week 2 of this Web Development program! This week, we will explore th
   - [Corey Schafer - Python OOP Tutorials - Working with Classes](https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&si=EZRhuwYPzND7VoB3)
 - **Additional Reading:**
   - [Python Documentation](https://docs.python.org/3/tutorial/index.html)
-  - [Mark Lutz Book - Chapters 8, 11-14, 16-18](Resources/Mark-Lutz-Book.pdf)
+  - [Mark Lutz Book - Chapters 8, 11-14, 16-18](../Resources/Mark-Lutz-Book.pdf)
 
 ### 2. Web Development with Flask
 
