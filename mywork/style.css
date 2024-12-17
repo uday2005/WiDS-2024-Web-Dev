@@ -1,0 +1,28 @@
+*{
+    margin :0px;
+    padding : 0px;
+    border:0px;
+    box-sizing: border-box; /* Padding and Borders are included in the height and width */
+
+}
+
+body{
+    font-family: sans-serif;
+    font-size:12px;
+    line-height: 18px;
+}
+
+.nav{
+    display:flex;
+    list-style-type: none;
+    font-size: 20px;
+    justify-content: flex-end;
+    background-color: #ffebbb;
+
+}
+
+.list{
+    padding:14px 10px;
+    margin:20px 6px;
+    
+}
