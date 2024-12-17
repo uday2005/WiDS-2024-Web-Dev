@@ -18,6 +18,7 @@ body{
     font-size: 20px;
     justify-content: flex-end;
     background-color: #ffebbb;
+    background-attachment: fixed; /*even if we scroll the bar background will not move */
 
 }
 
