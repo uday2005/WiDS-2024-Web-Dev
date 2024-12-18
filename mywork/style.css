@@ -17,7 +17,7 @@ body{
     list-style-type: none;
     font-size: 20px;
     justify-content: flex-end;
-    background-color: #ffebbb;
+    background-color: #ebcbae;
     background-attachment: fixed; /*even if we scroll the bar background will not move */
 
 }
@@ -26,4 +26,38 @@ body{
     padding:14px 10px;
     margin:20px 6px;
     
+}
+.hero{
+    background-color: #f9f9f9;
+    font-weight:30px;
+    line-height: 30px;
+    font-weight: 50px;
+    
+}
+
+.about{
+    display:flex;
+    background-repeat: repeat-x;
+
+}
+.profile{
+    /* width:600px; */
+    height:400px;
+    
+    width:50%;
+    margin: 2px 20px 10px 10px;
+    
+}
+
+#about,
+#project{
+    text-align:center;
+}
+
+.about1{
+    margin:auto;
+    margin-left:20px;
+    line-height: 35px;
+    font-weight: 200;
+    font-size: 22px;
 }
