@@ -45,7 +45,7 @@ body{
     height:400px;
     
     width:50%;
-    margin: 2px 20px 10px 10px;
+    margin: 0px 20px 0px 0px;
     
 }
 
@@ -53,11 +53,43 @@ body{
 #project{
     text-align:center;
 }
-
+.about{
+    background-color: rgb(158, 158, 153);
+}
 .about1{
     margin:auto;
     margin-left:20px;
     line-height: 35px;
     font-weight: 200;
     font-size: 22px;
+    
 }
+
+.project-box1{
+    font-size: 15px;
+    line-height:24px;
+    margin-top:-3px;
+    margin-left:5px;
+    border:4px slategray solid;
+    width:33%;
+    border-radius:4px;
+    background-color: #bcdbdf;
+    
+   
+}
+
+.project-image{
+    width:100%;
+}
+
+.button1{
+    display:flex;
+    gap:40px;
+    margin-left:5px;
+}
+
+.button1 button{
+    border:3px black solid;
+    border-radius:4px;
+}
+
